@@ -1,0 +1,272 @@
+[
+    {
+        "setor": "Adm/Administrativo",
+        "nome": "Renata Eurides",
+        "ramal": "8014"
+    },
+    {
+        "setor": "Adm/Dep. Pessoal",
+        "nome": "Jussara",
+        "ramal": "8029"
+    },
+    {
+        "setor": "Adm/Faturamento",
+        "nome": "Polly",
+        "ramal": "8046"
+    },
+    {
+        "setor": "Adm/Financeiro",
+        "nome": "Mariana",
+        "ramal": "8047"
+    },
+    {
+        "setor": "Adm/Recepcao",
+        "nome": "Nathalia",
+        "ramal": "8000"
+    },
+    {
+        "setor": "Agenda AT",
+        "nome": "Jossi",
+        "ramal": "8037"
+    },
+    {
+        "setor": "Apoio AT",
+        "nome": "Iolanda",
+        "ramal": "8009"
+    },
+    {
+        "setor": "AT - SEV",
+        "nome": "Bruno Franco",
+        "ramal": "8075"
+    },
+    {
+        "setor": "AT - SEV",
+        "nome": "Caio Gomes",
+        "ramal": "8005"
+    },
+    {
+        "setor": "AT - SEV",
+        "nome": "Joao Paulo",
+        "ramal": "8016"
+    },
+    {
+        "setor": "AT - SEV",
+        "nome": "Vitor Costa",
+        "ramal": "8032"
+    },
+    {
+        "setor": "AT - SEV",
+        "nome": "Yan",
+        "ramal": "8017"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Bryan",
+        "ramal": "8057"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Carlos Júnior",
+        "ramal": "8043"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Faraday",
+        "ramal": "8056"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Guilherme Gomes",
+        "ramal": "8066"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Gustavo Medeiros",
+        "ramal": "8049"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Levi Almeida",
+        "ramal": "8080"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Matheus Bauer",
+        "ramal": "8055"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Osmar",
+        "ramal": "8035"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Renan Batista",
+        "ramal": "8007"
+    },
+    {
+        "setor": "AT - Siga",
+        "nome": "Vitor Vieira",
+        "ramal": "8063"
+    },
+    {
+        "setor": "AT - Totem",
+        "nome": "Gabriel Teixeira",
+        "ramal": "8052"
+    },
+    {
+        "setor": "AT - Totem",
+        "nome": "Lucius Gomes",
+        "ramal": "8054"
+    },
+    {
+        "setor": "AT - Totem",
+        "nome": "Marlone",
+        "ramal": "8060"
+    },
+    {
+        "setor": "AT Direção",
+        "nome": "Olegário Amorim",
+        "ramal": "8069"
+    },
+    {
+        "setor": "Aux Apoio Téc TI",
+        "nome": "Lidiane Cota",
+        "ramal": "8024"
+    },
+    {
+        "setor": "Comercial",
+        "nome": "Horácio",
+        "ramal": "8013"
+    },
+    {
+        "setor": "Comercial",
+        "nome": "Kênya Lopes",
+        "ramal": "8033"
+    },
+    {
+        "setor": "Comercial",
+        "nome": "Marcos",
+        "ramal": "8001"
+    },
+    {
+        "setor": "Comercial / Back-Office",
+        "nome": "Daniella Vilhena",
+        "ramal": "8072"
+    },
+    {
+        "setor": "Comercial / Licitação",
+        "nome": "Matheus Moreira",
+        "ramal": "8081"
+    },
+    {
+        "setor": "Comercial / Licitação",
+        "nome": "Sabrina Pereira",
+        "ramal": "8036"
+    },
+    {
+        "setor": "Comercial / Licitação",
+        "nome": "",
+        "ramal": "8041"
+    },
+    {
+        "setor": "Comercial Direção",
+        "nome": "Joaquim Amorim",
+        "ramal": "8008"
+    },
+    {
+        "setor": "Compras",
+        "nome": "Alberto",
+        "ramal": "8020"
+    },
+    {
+        "setor": "Compras",
+        "nome": "Rodrigo",
+        "ramal": "8048"
+    },
+    {
+        "setor": "Contratos",
+        "nome": "Lorrane",
+        "ramal": "8040"
+    },
+    {
+        "setor": "Controladoria",
+        "nome": "Anneth",
+        "ramal": "8078"
+    },
+    {
+        "setor": "Controladoria",
+        "nome": "Karen Cidrini",
+        "ramal": "8068"
+    },
+    {
+        "setor": "Controladoria",
+        "nome": "Naiara Pereira",
+        "ramal": "8093"
+    },
+    {
+        "setor": "CQ",
+        "nome": "CQ Geral",
+        "ramal": "8077"
+    },
+    {
+        "setor": "Estoque",
+        "nome": "Judson",
+        "ramal": "8026"
+    },
+    {
+        "setor": "Estoque",
+        "nome": "Richard",
+        "ramal": "8026"
+    },
+    {
+        "setor": "Galpão",
+        "nome": "Marcelo",
+        "ramal": "8070"
+    },
+    {
+        "setor": "Infra",
+        "nome": "Ailton",
+        "ramal": "8025"
+    },
+    {
+        "setor": "Logística",
+        "nome": "Fred",
+        "ramal": "8034"
+    },
+    {
+        "setor": "Mecânica",
+        "nome": "Michael",
+        "ramal": "8045"
+    },
+    {
+        "setor": "P&D",
+        "nome": "Alexandre Daniel",
+        "ramal": "8019"
+    },
+    {
+        "setor": "P&D",
+        "nome": "Samuel",
+        "ramal": "8066"
+    },
+    {
+        "setor": "Processos",
+        "nome": "Camille",
+        "ramal": "8062"
+    },
+    {
+        "setor": "Relacionameto",
+        "nome": "Bia Villafort",
+        "ramal": "8004"
+    },
+    {
+        "setor": "RH",
+        "nome": "Renato Raso",
+        "ramal": "8073"
+    },
+    {
+        "setor": "Suporte TI",
+        "nome": "Glauber",
+        "ramal": "8065"
+    }
+]
